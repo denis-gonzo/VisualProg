@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>battery/battery-20.svg</file>
+        <file>battery/battery-30.svg</file>
+        <file>battery/battery-50.svg</file>
+        <file>battery/battery-80.svg</file>
+        <file>battery/battery-alert.svg</file>
+        <file>battery/battery-charging-20.svg</file>
+        <file>battery/battery-charging-30.svg</file>
+        <file>battery/battery-charging-50.svg</file>
+        <file>battery/battery-charging-80.svg</file>
+        <file>battery/battery-charging-full.svg</file>
+        <file>battery/battery-full.svg</file>
+        <file>battery/battery-unknown.svg</file>
+    </qresource>
+</RCC>
